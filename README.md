@@ -1,6 +1,6 @@
 # Hi, I'm Akhinish Chouhan 👋
 
-🚀 Computer Science Student | AI/ML Focus | Open Source Enthusiast  
+🚀 Computer Science Student (add particular domain)| AI/ML Focus | Open Source Enthusiast  
 Building real-world projects, not just certificates.
 
 ---
